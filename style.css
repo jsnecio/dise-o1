@@ -1,0 +1,14 @@
+#hero {
+    min-height: 110vh;
+    position: relative;
+}
+
+video{ position: absolute;
+top: 0;
+left: 0
+width:50%;
+height:50%
+background: #111;
+opacity: 0.5;
+
+}
